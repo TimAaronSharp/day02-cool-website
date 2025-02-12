@@ -14,6 +14,7 @@ main {
 
 .max-width-crests {
   max-width: 5%;
+  height: 5dvh;
 }
 
 .display-flex {
@@ -44,6 +45,10 @@ main {
   max-width: 28%;
 }
 
+.paragraph-2nd-max-width {
+  max-width: 26%;
+}
+
 .word-wrap-break-word {
   word-wrap: break-word;
 }
@@ -58,12 +63,12 @@ main {
 
 .margin-left-paragraph {
   /* margin-left: 29.2rem; */
-  left: 45rem;
+  left: 45.5rem;
 }
 
 .margin-left-2nd-paragraph {
   /* margin-left: 30.3rem; */
-  left: 42rem;
+  left: 44rem;
 }
 
 .no-margin {
@@ -94,10 +99,12 @@ main {
 
 .horde-button-color {
   background-color: #5b1d16;
+  color: white;
 }
 
 .alliance-button-color {
   background-color: #2f4979;
+  color: white;
 }
 
 .alliance-button-positioning {
@@ -107,6 +114,14 @@ main {
 .border {
   border: 3px solid black;
   border-radius: 20px;
+}
+
+.navbar {
+  background: none;
+  border: none;
+  color: white;
+  top: 50%;
+  bottom: 50%;
 }
 
 /* .z-index-paragraph {
