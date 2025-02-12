@@ -1,0 +1,122 @@
+body {
+  background-color: #140906;
+  /* background-image: url(images/wow.webp);
+  background-size: auto; */
+}
+
+main {
+  max-width: 100%vh;
+}
+
+.max-width-background {
+  max-width: 100%;
+}
+
+.max-width-crests {
+  max-width: 5%;
+}
+
+.display-flex {
+  display: flex;
+}
+
+.align-items-center {
+  align-items: center;
+}
+
+.justify-content-space-around {
+  justify-content: space-around;
+}
+
+.white-text {
+  color: white;
+}
+
+.padding-bottom {
+  padding-bottom: 1rem;
+}
+
+.no-padding {
+  padding: 0px;
+}
+
+.paragraph-max-width {
+  max-width: 28%;
+}
+
+.word-wrap-break-word {
+  word-wrap: break-word;
+}
+
+.margin-top-paragraph {
+  margin-top: 6rem;
+}
+
+.margin-top-2nd-paragraph {
+  margin-top: 7rem;
+}
+
+.margin-left-paragraph {
+  /* margin-left: 29.2rem; */
+  left: 45rem;
+}
+
+.margin-left-2nd-paragraph {
+  /* margin-left: 30.3rem; */
+  left: 42rem;
+}
+
+.no-margin {
+  margin: 0px;
+}
+
+.justify-content-center {
+  justify-content: center;
+}
+
+.position-absolute {
+  position: absolute;
+}
+
+.alliance-button-positioning.position-absolute {
+  top: 45rem;
+  left: 30rem;
+}
+
+.horde-button-positioning.position-absolute {
+  top: 45rem;
+  right: 10rem;
+}
+
+.horde-button-positioning {
+  width: 100%;
+}
+
+.horde-button-color {
+  background-color: #5b1d16;
+}
+
+.alliance-button-color {
+  background-color: #2f4979;
+}
+
+.alliance-button-positioning {
+  width: 100%;
+}
+
+.border {
+  border: 3px solid black;
+  border-radius: 20px;
+}
+
+/* .z-index-paragraph {
+  z-index: 6;
+  }
+  
+  .z-index-background {
+    z-index: 1;
+    } */
+
+/* .flex-column {
+      flex-direction: column;
+      } */
